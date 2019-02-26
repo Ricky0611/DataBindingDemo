@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="page_title">User Profile</string>
+    <string name="username">Username: </string>
+    <string name="username_hint">Please enter your user name.</string>
+    <string name="password">Password: </string>
+    <string name="password_hint">Please enter your password.</string>
+    <string name="button_text">Show data</string>
+</resources>
